@@ -1,0 +1,47 @@
+Changelog QOL mod V1.3
+
+- fixed self-introduced bug with the G&M shop in the shopping mall - wont send you back to Pav anymore
+- more clean-up in various places especially text placement
+- thumbnail view for the kids in the disco
+- fixed beach step for viktoria meynhold quest in the park (would never fire when quest stage was 19)
+- better withdrawal status messages including bimbowithdrawal and attribute bonus/malus
+- removed old menu and notepad as options (notepad will be replaced by the new phone planner function)
+- added a menu 'settings' to consolidate 'options' for general usability like autosave, fontsize etc
+- added direct setting for increasing and decreasing status window font
+- moved enabling/disabling of attributes, skills and stats into new settings menu
+- cropped/resized a number of pictures into unified size (will ultimately be done for all pictures)
+- many code changes to consolidate/centralize functions and calls
+
+
+Changelog QOL mod V1.2
+
+- added 'tips' to the stats window for the player's main status elements
+- added notifier pop-ups for the first few events
+- cleaned another hub
+- added further icons for future menus
+
+Changelog QOL mod V1.1
+
+- cleaned up main window and actions in more locations (its huge so sorry if this is still ongoing but Pavlovsk should be finished now)
+- corrected time to get back into Pavlovsk from highway from 60 to 15 minutes (same time it takes to get there from station)
+- added the first icon graphics to mall menu
+- changed 'racing' to 'track running' (hopefully everywhere now)
+- started using colour in dialogs to indicate when relation goes up(green) or down(red)
+
+Changelog Girl life 0.601 QOL(quality of life) mod V1
+
+- removed perception and charisma from status as they are currently not used in the game thus shouldnt show
+- added an area for important messages like jobs, waiting boyfriends, apartment rent and others (messages will be selectable in the next version)
+- condensed info on the status page into logical blocks
+- moved status texts below the appropriate attribute
+- added section 'Appearance' to status window including body form values like 'hip size' since it is used for being able to wear clothes or to resize them but wasnt shown without using cheat menu
+- grouped appearance messages into the appearance block since many of those messages require player action or have heavy influence on NPC reactions
+- cleaned most main windows from hyperlinks that would 'move' the player to a new location and replaced them with actions
+- colour indicator for some actions when restrictions apply
+- toggable alarm clock in bedroom moved into actions with color indicator for status in main window
+- started to add 'tips' messages (not many yet since cleanup still needs some work)
+- start of unification process of all text and menus (goal is unified formatting as well as naming and position of actions that do the same)
+- introduced a consolidated 'where to' menu in the shopping mall. If feedback is positive all move-menus will be changed to that format
+
+
+

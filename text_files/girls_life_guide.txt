@@ -1,0 +1,261 @@
+[XX00] Basic Information
+	[XX00.1] Where do I get the game?
+	[XX00.2] Which game start should I choose?
+	[XX00.3] How do I purchase phone, internet minutes, rent an apartment, and other stuff like that?
+[XX01] Universal Game Mechanics
+	[XX01.1] Body Shape
+	[XX01.2] Attractiveness
+	[XX01.3] Clothing effects
+	[XX01.4] Bimbo
+	[XX01.5] Submission and Dominance
+	[xx01.6] Sex Mechanics
+	[xx01.7] Fame & Reputation
+	[xx01.8] Banking and Income
+	[xx01.9] Exhibitionism
+[XX02] Village Events
+	[XX02.1] Family
+	[XX02.2] Boyfriends
+	[XX02.3] Schoolmates
+	[XX02.4] Other Important Information
+	[XX02.5] Misc Minor Events
+[XX03] City Events
+	[XX03.1] Jobs
+		[XX03.1.1] Sex Work
+		[XX03.1.2] Career Work
+		[XX03.1.3] Misc Work
+		[XX03.1.4] Village Work
+	[XX03.2] Park Events
+		[XX03.2.1] Park Cafe Encounters
+		[XX03.2.2] Park Walking Random Encounters
+	[XX03.3] Other Major Characters
+	[XX03.4] Other Major Encounters
+		
+		
+	
+[XX00] Basic Information
+[XX00.1] Where do I get the game?
+
+http://www.tfgamessite.com/index.php?module=viewgame&id=597
+You need to download:
+- The QSP game file
+- The QSP game engine
+- The image pack
+
+All of these can be found in the link above. As can the development thread's link.
+
+[XX00.2] Which game start should I choose?
+There are three choices here:
+- The original, first storyline involves you being a businessman who gets cursed and transformed into a woman. This storyline tends to involve lots of magic and combat, but the storyline is kind of cheesy and involves lots of Naruto references.
+- The schoolgirl storyline involves you being regular teenage girl in the village. Does not have access to the magic or supernatural content, but has far more sex events available. 
+	- You can choose between 15 and 16 as a starting age. The only real difference here is if you have two years or school left or just one. 
+	- Also, being less than 16 blocks access to nude photography or porn star work. On the other hand, being younger grants you free housing and an allowance from your parents for longer.
+- The cursed schoolgirl storyline is the same as the second choice, but also unlocks access to the magical combat content from the first storyline. This may be buggy, as it has not be thoroughly tested.
+
+[XX00.3] How do I purchase phone minutes, internet access, rent an apartment, and other stuff like that?
+See the Banking section.
+
+[XX01] Universal Game Mechanics
+[XX01.1] BODY SHAPE
+You have a FAT score and MUSCLE score. Whichever is higher dictates your body shape; for example:
+If FAT is 100, and MUSCLE is 101, you will have a bodybuilder body.
+If FAT is 101, and MUSCLE is 100, you will be chubby.
+
+Muscle is governed by strength and endurance, with bonus points from exercise-related activities. 
+Fat is increased by eating past your natural food/hunger score capacity. Also ice cream at sold at the supermarket. It is decreased by exercise-related activities, or by eating diet foods.
+Both Muscle and Fat scores decay daily on an inverted bell curve; low scores will decrease slowly, while very high scores decay rapidly, making it more difficult to stay at extremes than at lower levels.
+
+[XX01.2] ATTRACTIVENESS
+Positive factors
+- Makeup
+- Tan
+- Lip size (cosmetic surgery)
+- Eye shape (cosmetic surgery)
+- Eyelash size (beauty salon)
+- Lip balm
+- Hip-waist ratios
+- Hair styling at the salon
+- Bimbo level (multiplies effects of other factors, not a flat increase)
+- Clothing (multiplies effects of other factors, not a flat increase)
+
+Negative Factors
+- Glasses (if wearing cheap ones, no penalty for good frames)
+- Being Sweaty (wash to remove)
+- Tangled hair (brush to remove)
+- Unclean mouth (semen in mouth, or not brushing daily)
+- Unclean skin (not washing off cosmetics before bed)
+- Unshaven legs (buy a razor)
+- Missing teeth (lost through not brushing or through fights, can be fixed at the clinic)
+
+[XX01.3] CLOTHING
+Clothing's affects are based on four factors: Quality (expensiveness, generally), how thin the material is, how low cut the top is, and how short the bottoms are. Clothing is an attractiveness MULTIPLIER, meaning it does not provide a flat bonus, but a percent increased based on your existing attractiveness. It goes without saying skimpy clothes on a hot woman will have a lot more impact than skimpy clothes on an ugly one. Also note that the cut of the top's affects are increased with larger breast sizes (which presumably reveal more clevage).
+
+Clothing can be repaired or resized by joining the sewing club in at the village's house of culture, or by visiting the tailor in the city's residential area.
+
+[XX01.4] BIMBO
+Bimbo transformation essentially boosts your arousal and attractiveness, and unlocks a few events, in exchange for a large intelligence decrease. Level 1 is unlocked by wearing a bimbo outfit for enough days, unlocking level 1 bimbo. After level 1, you can also increase bimbo score each time you have sex (wearing the outfit still increases score, but not fast enough to reach higher levels). Bimbo score decreases by one point per day, so going long enough without wearing bimbo outfits and sex can eventually remove the bimbo transformation. Bimbo withdrawal can result in a warning message or mood penalty until it is completely gone.
+
+Level 1: +10% attractiveness, -15% intelligence
+Level 2: +15% attractiveness, -25% intelligence. Min arousal locked at 25%, +4% arousal per hour. Random rolls, averaging +4% mood per hour
+Level 3: +20% attractiveness, -33% intelligence. Min arousal locked at 50%, +8% arousal per hour. Random rolls, averaging +8% mood per hour
+
+[XX01.5] SUBMISSION AND DOMINANCE
+Certain scenes and choices are limited by this. Obviously, dominant characters will get choices to take control or dominate, while submissive characters will lose the opportunity to say no, and gain access to more humiliating and degrading choices.
+
+ Winning fights always increases dominance (you can unlock boxing at the city gym). Usually (but not always) stuff involving you initiating sex or asking concessions for having sex increases your dominance. Letting guys initiate, letting yourself get pressured into sex, losing fights, or letting yourself be "used" by men in general (gangbangs, etc) increases submission.
+
+[XX01.6] SEX MECHANICS
+This game simulates both pregnancy and STDs, so beware of unprotected sex. 
+
+PREGNANCY
+All contraceptives have a very small chance (1 in hundreds) of failing to prevent pregnancy. Testing for STDs and abortions can be undertaken at the doctor's clinic or hospital.  
+
+STDs
+All STDs can be supressed, or even cured at a clinic or hospital. Be forewarned however, the cost is usually VERY expensive; in the range of tens of thousands, or even surpassing a hundred thousand. So beware performing unprotected sex with many strangers in rapid succession, such as in gloryholes or prostitution.
+
+SORENESS
+Taking large insertions without a sufficiently stretched out orifice can lead to soreness, giving a large mood penalty for days to come. This can be avoided by stretching out your orifices during masturbation, and eventually very large sex toys at the adult shop. You can also wear a buttplug and vibrator to help stretch yourself passively throughout the day, at the cost of increasing arousal.
+
+At the pharmacy, lubricant can also be purchased to reduce soreness from anal, and cream can be bought to help relieve pain from stretching.
+
+RAPE
+Getting raped against your will will drop your mood to dangerously low levels. Buying ice cream at the super market, washint TV, taking a walk, and other leisure activities will raise your mood. Also note that a sufficiently high submissiveness score may prevent you from saying "no" to pushy men propositioning you.
+
+BIMBO, SUBMISSION, and DOMINANCE.
+Many of the most slutty acts of random sex can only be unlocked if you have sufficient bimbo score. Also note that submissiveness and dominance scores can allow/prohibit certain choices during interaction with NPCs. Generally dominant characters can take the lead, successfully say "no" to men, or ask for cash. Submissive characters will generally just go along with what a man desires, and may be more open to exhibition or humilitiation activities a dominant character would not undertake.
+
+[xx01.7] FAME & REPUTATION
+FAME
+This game mechanic is only partially implemented, but being worked on. 
+
+Basically, the more you undertake photoshoots, film porn, or perform on the webcam, the greater your fame and consequently the higher your payout for these events will be.
+
+REPUTATION
+In the village, you can have a score from 0 to 6 based on how widely know you are as a slut in the village. As a rule of thumb, sex with people you care about deeply (close friends, guys who love you, family) will not run their mouth about what you do together, so do not increase reputation. On the other hand, sex with strangers, or people simply using you for easy sex will be inclined to brag and will increase your score.
+
+With the exception of the Artem True Love event chain, almost every sex event will require sufficiently high slut score. But getting the score too high can block interaction with your schoolmates -- and their respective events -- and may lead to you getting kicked out if your mother's relationship is too low. There is currently no way to reduce this reputation, save for using the cheat menu's options.
+
+Also note your mother has you periodically tested to see if you're still a virgin. Failing this test will result in a huge negative penalty with your mother's relationship, but can be avoided by bribing the gynecologist with sex to fake a certificate of virginity, or having a high relationship score with your mother (who will fight, but then apologize and help you practice safe sex by unlocking contraceptives at the pharmacy).
+
+[xx01.8] BANKING AND INCOME
+You need a bank account to access many aspects of the game, including renting an apartment in the city, getting internet access, receiving payment for camwhoring, playing online games, paying for cable television, and so on. The bank is in the city center, open roughly the same hours/days as school in the village.
+
+Most salaried jobs pay once a month, on the 25th. Rent is usually due on the first, and paid at the real-estate office or online.
+
+[xx01.9] EXHIBITIONISM
+Exhibition unlocks certain flashing events, and the ability to wear the skimpiest (and most attractiveness-increasing) of clothing. It can be increased gradually by not wearing panties, or you can get a one-time large increase through the Kat events.
+
+[XX02] VILLAGE EVENTS
+I'll only post how to *start* event chains, not all their events, to avoid spoilers. These are only applicable to the village, and do not cover city events. 
+Also many events may require sufficiently high slut reputation. 
+
+[XX02.1] FAMILY
+FAMILY
+Note that Mom and Dad may work certain days, so may appear randomly appear missing some days but not others. If the entire family is gone, they may be on their monthly visit to see the grandparents. 
+
+- Stepfather (show off to him in living room or garage workshop)
+- Actual father (ask Mom about him)
+- Brother (watching him soccer after school, eventually leading to him spying on you in the shower or asking for help falling asleep at night)
+- Anya (Sister, talk in the evening before bed, or drink with her at the community center after school)
+- Rex (Sister's friend, requires good relationship with sister and end-of-year party event)
+- Uncle Misha (random events seeing you walking around village with semen stains)
+- Mom (Not actual sex, but you can spy on her at certain hours in the cafe having sex with someone else. Also another scene with Sergei or Misha (can't remember). 
+- Shulga (childhood friend? Cousin? Go to his apartment upstairs at late late night, him and friends will be playing strip poker. Alternatively, visit him during the day and let him pressure you into sex)
+- Sergei (Shulga's uncle. Help out around the house, maybe requires visiting him when he's drinking vodka in the evenings to start)
+
+[XX02.2] BOYFRIENDS
+You can only "officially" go out with one of these at a time, though you can always cheat.
+- Artem (nerdy friend, has both a "abuse you for being a cheating slut" and "true love romantic" path)
+- Dina (leader of the cool kids, let him seduce you at the disco. Blackmail/submissive event chain)
+- Fedor (jock, masochist that secretly loves being belittled and humiliated. FemDominance event chain)
+- Vitek (leader of the gopniks ("thugs"))
+
+[XX02.3] SCHOOLMATES
+Schoolmates usually require high enough friendship, and going home with them after school (except Ivan and Gopniks). They usually have fairly complex event chains rather than simple smut scenes alone. If you aren't a grade A student, you can get offers to go home and study with some characters.
+- Ivan (aspiring boxer jock, can meet him at the community center after school. Working up a sweat and hitting the shower may have him follow you in)
+- Katya (cool redhead, go home with her, high enough friendship)
+- Albina (rich blond, be invited to join the modern dance club)
+- Natasha (short blond hair, loan her money and get her into debt)
+- Gopniks (aka thugs, delinquent gang. Drink in park with them. Peeing after too much beer may lead to a rape event.)
+
+[XX02.4] OTHER IMPORTANT INFORMATION
+- Coach: There is a fairly large event chain involving the coach. You can join the team by being either extremely good and fit, or offering to be a personal slut to the coach. You can even go to the championships with enough wins. Practice occurs every day after school (try wearing no underwear here), with official games on Sundays. He also somtimes chaperones at the disco, and you can flirt him up if he takes your drunk ass home enough times. Note that games can be very difficult to win, so don't start any official games (skipping gives no penalty) until you have a very high volleyball score or fitness.
+- Aunt Lyida the Pharmacist: To unlock birth control, condoms, and other sex-related products (without having to go to the pharmacy in the big city), you have to let your mom know you're a slut by coming home in semen and/or failing a gynecology exam -- when you have a high enough reputation with her. You'll get in a fight, and depending on your relationship (and a luck roll) OR finding out about her affair, you can apologize and make up with her. SAVE BEFORE HAND. It's partly a luck roll, so sometimes it can just fail.
+- Village Gadyukino: Once a month, your family will go to see the grandparents, asking you if you want to come. There are numerous events in the village, including getting a deck of cards, beasiality with the family dog, sex with some of the local boys, and a large event chain with Mira.
+- Mira: A shy, plain girl at the village. There's a fairly large event chain where you help her stop being a shy wallflower, and instead help her become the cute, popular girl she's always dreamed of being. You can even find her a boyfriend with online dating sites.
+- How to reach the big city: Take the train, or follow the highway out beside the train station and offer a trucker a BJ
+- Camwhore: You can camwhore if you have a laptop, webcam, and a bank account.
+
+[XX02.5] MISC. MINOR EVENTS
+Please see "VILLAGE WORK" for other things not listed here.
+- Train Station Bathrooms (Bimbo status only): Pick up random guys there.
+- The evening dance ("disco") has a bunch of one-night stands. If your dominance is high enough, you can sometimes ask for cash if a guy takes you out to a hotel
+- Don't buy anything from the shifty character in sunglasses at the trainstation.
+- Photoshoot: Some guys may want you to model near the train station, but things may not be what you expect.
+- Gym Class: You may get molested in gym class, particularly if not wearing underwear.
+- You can find out about your Mom's cheating by visiting the train station cafe at a certain hour on one of her workdays.
+
+[XX03] CITY EVENTS
+[XX03.1] JOBS
+With the exception of the VILLAGE WORK section and camwhoring, all jobs are limited to in the city.
+[XX03.1.1] SEX WORK
+Sex Work all counts as part-time work, not a career, so you can have more than one of these jobs at once.
+- Modeling (16+): Only open once a month, but very high pay (given only 3 hours work). Pay based on attractiveness, may be offered to do nude shoots if high enough attractiveness. 
+- Porn Star (16+): Pay increases based on attractiveness and fame (more pornos = more fame). Unlock either by sucking off twenty guys in the adult store gloryholes (SAVE BEFORE. STDs STRANGER DANGER) or being blackmailed into starting it (sex in the park)
+- Prostitution: Only available in certain outfits. Go to the city park at night, and follow it out to the road. Getting picked up is pretty random (even with very high attractiveness and almost free prices, you may sometimes get rejected). Pimps may randomly come by demanding cash (or you can fight them off).
+- Sauna Whore: Certian nights, the BBQ joint on the north side of town will have shady guys offering you a loan. Default, they will clear out your savings (YES, including whatever you stashed in the desk or the bank account). Alternatively, failing to deliver a certain package from the studio. Trapped until you pay off debt, then set free and can work for profit there.
+- Strip Club: Should be under sex jobs. Pretty obvious. Two dance types... one takes a lot more energy, and pays less on average, but can sometimes lead to lucrative "private dance" events. The other type is low effort, pays a little better, but no random private events. You can also attend as a customer and use a spy cam to take photos, but might get kicked out.
+- Camwhore: Requires a laptop, webcamera, and a bank account (to both buy internet minutes, and receive donations). Unlocked by browsing certain internet websites and looking for work.
+
+[XX03.1.2] CAREER WORK
+NOTE: You can only have on career at a time, unless using cheats. All career work pays on the 25th of each month.
+- Cafe Waitress: Residential Area. Free meals during shifts, and various sex events.
+- Diner: Central Area. Similar to the cafe. But involves an event chain leading to you getting framed with possible jail time or fines invovlved. Beware!
+- Secretary: Central Area. Requires secretarial degree from the University.
+- Masseuse: Central Area, Mall. Requires degree from the University.
+- Clothing Store Clerk: Central Area, Mall. Missing numerous days in a row will result in your boss demanding sexual compensation.
+- Private Maid: You can become Tanya's family maid (with lots of events, and a free apartment to live in, plus pay) if you have a high enough dominance score and see her in the locker rooms, then molest her in the shower. Her condo will be unlocked at the city center. Many events are accessed by a combination of luck, and being there at specific hours, so may take multiple attempts. Also try wearing no panties with your skirt.
+
+[XX03.1.3] OTHER WORK
+- Online Jobs: Various once-off modeling or cleaning jobs can be found on the internet.
+- Cleaning: Can clean a tailor's shop in the residential district once a day. Unlocked by befriending a waitress at the cafe.
+- Gloryholes: There are low-paying glory holes in the sex shop basement, if you are sufficiently aroused. Also higher-paying ones in the night club bathrooms.
+
+[XX03.1.4] VILLAGE WORK
+- Clothing Factory: No special events.
+- Hairdressers: No special events
+- Albina's "Dance" Club: In the village, Albina can invite you to sleep with men if you're part of her dance club. But this is only temporary, as the prostituion ring eventually gets shut down.
+- Hotel Maid Job: No sex events, but lots of voyeurism and spying on rowdy couples
+- Train Station Janitor Job: I think there's an event chain involving your female co-worker mentioning the boss is a total jerk and him being a molester of some kind. Haven't figured it out yet
+
+[XX03.2] PARK EVENTS
+[XX03.2.1] PARK CAFE ENCOUNTERS
+- Goshi (Young Guy): A guy in the park at the cafe. Invites you to hotel to date and/or have sex. Nothing significant beyond sex if not a university student.
+- DeMarcus (African): in the park cafe. Invites you to university hostel. Starts off with 1-on-1, eventually goes to gangbangs, and then getting dommed by a black girl called Kendra (WARNING: She may give you degrading tattoos.
+- Albanians: A pair of Albanians, some kind of mobsters. Start out as a cleaning lady, let yourself get banged enough and you may be able to meet their boss who will bang you. Eventually ends with him inviting you to the pool for a big gangbang/photoshoot event.
+- Old guy: Random sex event. Nothing special
+- Mistress (Lady): Unlocks a chain of sex events. Choosing the submissive path unlocks the BDSM club.
+
+[XX03.2.2] PARK WALKING RANDOM ENCOUNTERS
+There are various random propositioning for sex events, mugger, kidnapping and rape events, and voyeurism events here.
+
+BLACKMAIL
+If you bought a spy camera, and encounter a gangbang in the woods, you can take blackmail photos. You can then access the Russian version of facebook and try to blackmail her for cash. This may backfire and lead to you being caught and gangraped instead. Additionally, you can get caught having sex if you accept random propositions. A blackmailer will force you to work as a nude model and/or porn star, unlocking the porn career (if you didn't unlock it via the sex shop gloryhole route).
+
+[XX03.3] Other Major Characters
+- Mistress: Besides being met in the cafe, she can also be encountered as a random event in the high-end clothing store in the mall.
+- Peter: Owner of the adult toy store. A classy, charming, wealthy master/dom sort of guy like from 50 Shades of Grey. Encountered with at max submission score in the porn shop. Repeatable event.
+- Tanya: Met in the city gym's showers. With sufficient dom score, you can take advantage of her, and she'll let you visit her apartment.
+- Kat: Can be encountered on the beach or fancy restaraunt. Unlocks a chain of exhbitionist events
+- Vladimir: a very wealthy and but shady guy. Met in the city park, amusement park area. Can become your boyfriend if you have a high enough attractiveness and are dressed well enough when meeting him there.
+- Dima: Met in the mall's supermarket. Claims to be new to the city, invites you to dinner. Get kidnapped instead, but eventually let go. You can go crawling back to him if you're submissive enough.
+- Gopniks: Residental Area. Approaching these guys and refusing to let them fuck you will make them hostile. They'll then beat you up and rape you, and then spraypaint a large sign saying "A whore lives at apartment [whatever]" if you have an apartment there. They'll also occasionally wait by your apartment entrance to demand cash and sex.
+- Eugene: Works at the northern area grill house. Packs a special kind of sausage she'll share with you if she likes you enough.
+- Father: Your non-step father. Northern area truck terminal. Must be unlocked by following the event chain from asking your Mom about him.
+- Kendra: Be a whore to the black guys in the hostel long enough (see Cafe Encounters: DeMarcus) and you'll unlock her. She'll then fuck you and give you tattoos marking you as a whore.
+
+[XX03.4] Other Major Encounters
+- Night Club: Central Area. Need sufficient attractiveness and makeup/clothing to enter. Various random events inside.
+- Charity Work: Northern Area. Be nice to hobos near the residential area dumpsters, eventually you unlock this area. Try wearing a short skirt and no panties to unlock various events.
+- Cab Drivers: All inexplicably seem to have very large pensis. Will rape you, and inevitably leave you very sore, if you fail to pay a cab fair.
+- Metro Molesters: You will sometimes get molested on the metro. Going along with it, dressing skimpy, or simply traveling the metro often increases the rate of these events.
+- Sex Shop: Random propositions, gloryholes in the basement can be used if aroused enough. Also encounter Kendra here if met (but she won't tattoo you here, so don't worry)

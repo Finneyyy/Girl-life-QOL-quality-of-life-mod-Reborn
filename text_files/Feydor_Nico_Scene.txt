@@ -1,0 +1,23 @@
+'Today as you go along your normal route to school, you see an unusual sight. Feydor Kozlov and Nico Volkov, are heading towards the train station together.'
+
+<let player follow after them>
+
+'You follow a distance behind them, and by the time you make it into the train station, you see that you have seemed to have lost them. When you finally manage to find them, you witness Feydor and Nico jump down onto the train tracks, trying to obeserve an object that looks like it has been long lodged inside of it. You stay put, watching with interest, hoping to ask them what the fuss is all about after they come back up. It''s then, that you hear the train approaching. From the wide looks in their eyes, you know they have noticed too. They scramble to climb back to saftey, and the conductor of the train, ferociously pulls the emergency brake. But in the end, its not enough. You watch in horror, as they are hit and, thrown harshly against the wall of the train tunnel. Moments later, paramedics arrive and they are both pronounced dead on sight. You walk down to the edge of boarding station, and spend a few mintures mourning your lost classmates. As you get up to leave, something catches your eye, upon taking a closer look, you recognize it as the object that was lodged in the tracks. The impact must have been enough for it to come unstuck!'
+
+<Let player pocket the object>
+
+'You decide to pocket it, and ask about it later. You figure, you can either sell it, or give it to their parents, as a momento to remember them by. As you leave the station, you take a glance at the clock, You are severly late!. You can only hope you wont be too harshly punished when you get there, especially since you are still in emotional shock, over what you have just seen. Despite wanting to take more time to compose yourself, you decide, you better get to school as soon as possible. You are probably in a whole load of trouble as it is.'
+(addobj, golden train token or something)
+
+<let player rush to class>
+
+'It takes only a few minutes to get to the school. As you arrive, you notice something odd, all the lights are off!. You cautiously make your way up to the front door, and see a sign. It reads, "In loving memory and memorial of Feydor Kozlov and Nico Volkov, school has been closed early today to allow friends and family alike time to mourn"'
+
+<move player to home location>
+
+'You go home, and just like the rest of the town, do so with a strong sense of Sadness, and feeling or dread, "
+<i>they are never going to come back</i> you think to yourself, and this makes you feel even worse then before, you dont think you have quite accepted that they are gone. You are glad for the day off, you know you wouldnt have been able to concentrate in school after what you have just seen. Remembering the token, you put it away, noting to yourself to come back to it when you are in a better emotional place'
+
+<End, in bedroom and restore normal actions>
+<Add 30 Minutes>
+<change mood by - (pick reasonable amount)>  

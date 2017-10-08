@@ -1,0 +1,13 @@
+What are the goals for the project?
+
+1. Make the game playable without the constant need to cheat
+2. Make it easier to integrate new content like events/quests/places by simplifying the code
+3. If time/interest etc allow - move to new player with cleaned code to provide better media access and functionality
+
+
+What are the milestones?
+
+1. Streamlining content into behaving less arbitrary
+2. Provide the user with as much ingame info/hints as needed to normally progress with quests/events
+3. automate code functionality as much as possible and unify those processes to behave identically
+4. Repair and/or replace core functions that are obviously not working and document these functions publicly
