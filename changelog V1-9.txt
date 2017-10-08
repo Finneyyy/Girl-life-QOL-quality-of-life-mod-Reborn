@@ -1,0 +1,191 @@
+Changelog QOL mod  1-9
+
+- NEW NPC Relations has been move into 'Player' menu as it essentially depicts the relation towards the player only
+	+ clicking on the picture of a person will open the note with the NPC's description
+	+ all named static NPC will be available including their current notes
+- NEW Toggles for standard game functions like sound or nightmode have been moved into settings
+- NEW Gamesettings menu to chose options for 'causal' or 'normal' gameplay
+- NEW Return of the cheat menu in a cleaned version to prevent disruption during clean-up
+- NEW sudden death of 2 major old NPC that have been replaced by 2 new ones
+
+
+- fixed more clean-up mostly invisble to the user
+- fixed adjusted frequence of Vera chats
+- fixed Pav trainstation wallet event will only fire once per day if you manage to keep the money
+
+
+
+
+Changelog QOL mod  1-8
+A special thanks this time goes to the busy minions @673751 @Finneyyy - they survived and are well!
+
+- NEW removed the original cheat menu as it was interfering with core mechanics and has to be completely redone
+- NEW new weather system based on average monthly temperatures and average monthly raindays implemented
+	+daily temperatures will now have a max deviation of 5°C from the monthly average temperature
+	+weathertypes like clear sky, cloudy etc are defined as usual at daystart and change once around noon
+	+weathertypes not counting as 'clear' are capped per month and reaching the cap will ensure clear days for the reminder of the month
+	+The new 'weathertype' also allows much more detailed checks and conditions for events, clothing etc
+	+both clear and partly cloudy count as clear skies for conditional checks in the code
+	+weather changes are instant in status window without a need to refresh anything
+- NEW Using the new default actions wherever applicable. First obvious results: 
+	+ almost every place and scene will have a standard wait action
+	+ all outdoors locations as well as most private ones will allow smoking
+- NEW/fixed The minions where busy and started the first few cheat functions to satisfy the most imminent needs(work will continue on this)
+
+- fixed exercise plans will again work as intended and undisturbed
+- fixed more options to decide for the player if condom is used or not when initiating sexual activities
+	+(part of the overall 'more player decisions' milestone)
+- fixed removed quite a bit of redundant code in several locations
+- fixed Links to get to the Meynold residency now behave identically by only using a single version of the Meynold residency (1 deleted now)
+- fixed wardrobe and nightmode should now work seemlessly together
+- fixed revamped smoking to be accesible again and dynamically added as action to eligable locations
+
+Changelog QOL mod 1-71
+
+- fixed added missing icon for the menu Bug Report
+- fixed a error in phone that would prevent notebook and reminder
+
+
+Changelog QOL mod 1-7
+
+- NEW Bug reporting directly out of the game! A new button will provide you with a message box containing the link to the bug report form. The bug report form integrates directly with our github project and your input can be fully anonymous! The message box prevents windows from resetting when encountering a bug - so maximum feedback is possible.
+- NEW otg_menu is now no longer part of the base code but has been moved properly into an outside lib and credited (was part of the original ecv code without crediting the author)
+- NEW more control when the player loses virginity. Changed the sister trio with Roma to allow decision making for defloration
+- NEW standard 'wait' activities can now be cancelled and will apply a standard wait period of 15 minutes if the user fails to provide a accepted period
+- NEW added Mistress quest info: days since last visit to status frame inside events area. Will be green for days below 7, warning red when over
+- moved more essential functions out of the cheat menu and into regular settings like 'Toggle Night Mode'
+- NEW Temperature will now always be shown as both Celsius and Fahrenheit
+- NEW Weather will now always be updated when you move to a new outdoors location. This will ensure the status window gets updated and will most definitly change temperatures during the day. This is enhancing the chances to end in a weather situation needed for certain events and quests without forcing the user to cheat! This can lead to big swings in temperature for months that are covering broader temp ranges than others. A poll has been started to collect your feedback on this change as it has major influence
+
+
+- fixed 'nirvana' when one had already won a running championship and wanted to talk to the coach
+- fixed minor text in city hotel when talking to the receptionist (refers now to her own husband)
+- fixed returned blackjack cards to orignal size (doing things in bulk isnt always good - apologies for that)
+- changing weather or temperature via cheatmenu wouldnt update the stats menu. Added notifier including cheated values (mostly obsolete due to new weather settings)
+- fixed changed text for glasses in player description to clearly indicate difference between types (none, silly, stylish)
+- fixed error allowing player to attend prep courses at university without school diploma from secondary school
+- fixed 'bagged lunch' in the school cafeteria - wasnt actually consuming any food
+- fixed text adjustments in photostudio to give better hints when not eligable for work as model
+- fixed Mistress event when not having visited her for more than a week. The event would fire ALWAYS as it used a wrong calculation of days since last visit.
+- fixed 'Settings' menu has been cleaned and divided into sections
+- fixed adjusted mood change when working as maid in the hotel (would reduce mood by 10 for each room, now 5 and minor adds to mood when finding tips
+- a lot of code cleaning and moving. Invisible for the user but essential for the clean-up goal
+ 
+
+
+
+
+Changelog QOL mod 1-6
+First of all a big thank you for the helping hands of Oiz, Finneyyy, AlexKrisnov.
+They have provided invaluable help to advance the progress of the mod and Oiz even made us our very own split-merge application for qsp-files
+
+NEW means something has been added or significantly changed with regards to core gameplay
+
+- NEW reminder function for phone notebook entries. The reminder will be triggered when a new day starts and only remind once for now
+- NEW 'sleep' has been 'repaired' to have influence on the character again. When sleep is Zero the players mood will be affected
+- NEW changed time for 'Search for a job online' in the computer menu to take 15 minutes instead of 1 hour (4 times better chance to find a job)
+- NEW random street event when not wearing panties has been overhauled and fixed. It didnt give any xp for exhibitionism and would raise the players submissiveness. While exhibitionism is below 30 it will lower mood but raise willpower and adds exhibitionism experience. It will raise mood and willpower when exhibitionism is above 30 and still give a bit of experience.
+- NEW a few more help texts beside those in the status window
+- NEW weigth change warnings in the bath will now be very visual as pop-up messages so you know clothes might not fit
+
+FIXED means existing code has been 'repaired' or obvious bugs have been removed
+
+- fixed a whole lot of wrong location calls created during the last update
+- fixed event list to only show sister's partydays when the Quest has been started
+- fixed reported bug for event 'sex for money in hotel' with one of the guests at the disco
+- fixed 'back' function for phone when selecting Phone Saldo, will now correctyl return to phone menu
+- 'fixed' Professor Krupin seduction that would create an error in cum_call
+- fixed exercise trouble with plans once and for all
+- adjusted price for handbag to something more meaningful and realistic (1800P) as a first step of the price adjustment(more to follow)
+- adjusted text for reading books in the library to better indicate which attribute gets influenced after reading one of it
+- fixed getting stuck and losing money when splitting money at trainstation wallet event
+
+
+
+
+Changelog QOL mod 1-52
+- Thanks to @Finneyyy as he found a lot of old calls to old locations 
+these calls have been fixed in this version
+
+
+Changelog QOL mod 1-5hotfix
+- removed a bug with exercising ending in blank action screen
+
+Changelog QOL mod V1.5
+
+Special thanks goes to user 'Krull' from F95zone for providing us with a fantastic
+- new 'girly' telephone
+
+- new phone works like usual - just click the appropriate button
+- clean-up of Pavlovsk residential including new menu
+- clean-up of Pavlovsk commercial  including new menu
+- clean-up of Pavlovsk trainstation outer area including new menu
+- changed a few times it takes to reach certain locations from Pavlosvsk residential as they where not really consistent
+- moved Vera talk out from the women's toilet into the actual trainstation (text indicates she will wave at you when you enter the station)
+- changed wallet event in trainstation to include random chance to keep and/or split money (originally it was always a loss)
+- changed Pav high street' to be 'Main road' and area 'Pavlovsk commercial'
+- lots of code clean-up invisible for the user
+
+A big thank you also to Quacker and Oiz for their helping hands during this update
+
+
+
+Changelog QOL mod V1.4
+- completed city centre cleanup and added the new menu system to it
+- cleanup of various locations in the city continued (mostly code and not visible for the player)
+- changed city community centre behaviour to accept you into driving lessons IF you have a fake passport and are under 18
+- city apartment now has a proper alarm clock in the bedroom and the appropriate actions for it(was missing)
+- changed real estate angency in the city to exclusively work via bank account and fixed ammount for the cottage in the message (apartments required cash and the message stated 30.000 instead of 75.000)
+- added a hint to the strip club for stripper hotness and expected tips
+- better visualization of things that prevent you from going on stage in the strip club
+- minor change to how stripper hotness is calculated. The original calculation made it near impossible to get into the paying ranks with even 170 attractiveness
+- included template to use for creating new locations
+- corrected boyfriend output in status window (used wrong variable). Will now show all 3 possible ones.
+
+Changelog QOL mod V1.3
+
+- fixed self-introduced bug with the G&M shop in the shopping mall - wont send you back to Pav anymore
+- more clean-up in various places especially text placement
+- thumbnail view for the kids in the disco
+- fixed beach step for viktoria meynhold quest in the park (would never fire when quest stage was 19)
+- better withdrawal status messages including bimbowithdrawal and attribute bonus/malus
+- removed old menu and notepad as options (notepad will be replaced by the new phone planner function)
+- added a menu 'settings' to consolidate 'options' for general usability like autosave, fontsize etc
+- added direct setting for increasing and decreasing status window font
+- moved enabling/disabling of attributes, skills and stats into new settings menu
+- cropped/resized a number of pictures into unified size (will ultimately be done for all pictures)
+- many code changes to consolidate/centralize functions and calls
+
+
+Changelog QOL mod V1.2
+
+- added 'tips' to the stats window for the player's main status elements
+- added notifier pop-ups for the first few events
+- cleaned another hub
+- added further icons for future menus
+
+Changelog QOL mod V1.1
+
+- cleaned up main window and actions in more locations (its huge so sorry if this is still ongoing but Pavlovsk should be finished now)
+- corrected time to get back into Pavlovsk from highway from 60 to 15 minutes (same time it takes to get there from station)
+- added the first icon graphics to mall menu
+- changed 'racing' to 'track running' (hopefully everywhere now)
+- started using colour in dialogs to indicate when relation goes up(green) or down(red)
+
+Changelog Girl life 0.601 QOL(quality of life) mod V1
+
+- removed perception and charisma from status as they are currently not used in the game thus shouldnt show
+- added an area for important messages like jobs, waiting boyfriends, apartment rent and others (messages will be selectable in the next version)
+- condensed info on the status page into logical blocks
+- moved status texts below the appropriate attribute
+- added section 'Appearance' to status window including body form values like 'hip size' since it is used for being able to wear clothes or to resize them but wasnt shown without using cheat menu
+- grouped appearance messages into the appearance block since many of those messages require player action or have heavy influence on NPC reactions
+- cleaned most main windows from hyperlinks that would 'move' the player to a new location and replaced them with actions
+- colour indicator for some actions when restrictions apply
+- toggable alarm clock in bedroom moved into actions with color indicator for status in main window
+- started to add 'tips' messages (not many yet since cleanup still needs some work)
+- start of unification process of all text and menus (goal is unified formatting as well as naming and position of actions that do the same)
+- introduced a consolidated 'where to' menu in the shopping mall. If feedback is positive all move-menus will be changed to that format
+
+
+

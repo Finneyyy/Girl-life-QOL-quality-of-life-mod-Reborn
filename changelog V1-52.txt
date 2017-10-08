@@ -1,0 +1,86 @@
+Changelog QOL mod 1-52
+- Thanks to @Finneyyy as he found a lot of old calls to old locations 
+these calls have been fixed in this version
+
+
+Changelog QOL mod 1-5hotfix
+- removed a bug with exercising ending in blank action screen
+
+Changelog QOL mod V1.5
+
+Special thanks goes to user 'Krull' from F95zone for providing us with a fantastic
+- new 'girly' telephone
+
+- new phone works like usual - just click the appropriate button
+- clean-up of Pavlovsk residential including new menu
+- clean-up of Pavlovsk commercial  including new menu
+- clean-up of Pavlovsk trainstation outer area including new menu
+- changed a few times it takes to reach certain locations from Pavlosvsk residential as they where not really consistent
+- moved Vera talk out from the women's toilet into the actual trainstation (text indicates she will wave at you when you enter the station)
+- changed wallet event in trainstation to include random chance to keep and/or split money (originally it was always a loss)
+- changed Pav high street' to be 'Main road' and area 'Pavlovsk commercial'
+- lots of code clean-up invisible for the user
+
+A big thank you also to Quacker and Oiz for their helping hands during this update
+
+
+
+Changelog QOL mod V1.4
+- completed city centre cleanup and added the new menu system to it
+- cleanup of various locations in the city continued (mostly code and not visible for the player)
+- changed city community centre behaviour to accept you into driving lessons IF you have a fake passport and are under 18
+- city apartment now has a proper alarm clock in the bedroom and the appropriate actions for it(was missing)
+- changed real estate angency in the city to exclusively work via bank account and fixed ammount for the cottage in the message (apartments required cash and the message stated 30.000 instead of 75.000)
+- added a hint to the strip club for stripper hotness and expected tips
+- better visualization of things that prevent you from going on stage in the strip club
+- minor change to how stripper hotness is calculated. The original calculation made it near impossible to get into the paying ranks with even 170 attractiveness
+- included template to use for creating new locations
+- corrected boyfriend output in status window (used wrong variable). Will now show all 3 possible ones.
+
+Changelog QOL mod V1.3
+
+- fixed self-introduced bug with the G&M shop in the shopping mall - wont send you back to Pav anymore
+- more clean-up in various places especially text placement
+- thumbnail view for the kids in the disco
+- fixed beach step for viktoria meynhold quest in the park (would never fire when quest stage was 19)
+- better withdrawal status messages including bimbowithdrawal and attribute bonus/malus
+- removed old menu and notepad as options (notepad will be replaced by the new phone planner function)
+- added a menu 'settings' to consolidate 'options' for general usability like autosave, fontsize etc
+- added direct setting for increasing and decreasing status window font
+- moved enabling/disabling of attributes, skills and stats into new settings menu
+- cropped/resized a number of pictures into unified size (will ultimately be done for all pictures)
+- many code changes to consolidate/centralize functions and calls
+
+
+Changelog QOL mod V1.2
+
+- added 'tips' to the stats window for the player's main status elements
+- added notifier pop-ups for the first few events
+- cleaned another hub
+- added further icons for future menus
+
+Changelog QOL mod V1.1
+
+- cleaned up main window and actions in more locations (its huge so sorry if this is still ongoing but Pavlovsk should be finished now)
+- corrected time to get back into Pavlovsk from highway from 60 to 15 minutes (same time it takes to get there from station)
+- added the first icon graphics to mall menu
+- changed 'racing' to 'track running' (hopefully everywhere now)
+- started using colour in dialogs to indicate when relation goes up(green) or down(red)
+
+Changelog Girl life 0.601 QOL(quality of life) mod V1
+
+- removed perception and charisma from status as they are currently not used in the game thus shouldnt show
+- added an area for important messages like jobs, waiting boyfriends, apartment rent and others (messages will be selectable in the next version)
+- condensed info on the status page into logical blocks
+- moved status texts below the appropriate attribute
+- added section 'Appearance' to status window including body form values like 'hip size' since it is used for being able to wear clothes or to resize them but wasnt shown without using cheat menu
+- grouped appearance messages into the appearance block since many of those messages require player action or have heavy influence on NPC reactions
+- cleaned most main windows from hyperlinks that would 'move' the player to a new location and replaced them with actions
+- colour indicator for some actions when restrictions apply
+- toggable alarm clock in bedroom moved into actions with color indicator for status in main window
+- started to add 'tips' messages (not many yet since cleanup still needs some work)
+- start of unification process of all text and menus (goal is unified formatting as well as naming and position of actions that do the same)
+- introduced a consolidated 'where to' menu in the shopping mall. If feedback is positive all move-menus will be changed to that format
+
+
+

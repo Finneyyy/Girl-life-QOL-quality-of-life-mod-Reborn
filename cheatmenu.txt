@@ -1,0 +1,119 @@
+!!Read this!!!
+!!This is the replacement for the original cheatmenu as it was actually changing and interfering with core values even when the user wouldnt change any options
+!!THis module is NOT to implement 'fixes' for broken mechanics but only for functions that allow the user to circumvent certain values for gameplay!
+
+CLR
+
+
+$cheat_stats_display = ''
+
+!!Header including graphic
+$cheat_display += '<center><b><font color="maroon">Cheat Menu</font></b></center>'
+$cheat_display += '<center><img src="images/shared/icons/GAME_CHEAT-128.png"></center>'
+
+!!actual cheat buttons
+$cheat_display += '<center><table>'
+$cheat_display += '<tr>'
+$cheat_display += '<td><center><a href="exec: gs ''MOD_cheatmenu'',''cheatmoney''"><img src="images/shared/icons/money_bag-64.png"></center></td></a>' 
+$cheat_display += '<td><center><a href="exec: gs ''MOD_cheatmenu'',''statCheats''"><img src="images/shared/icons/statcheaticon-64.png"></center></td></a>'
+$cheat_display += '<td><center><a href="exec: gs ''MOD_cheatmenu'',''teleport''"><img src="images/shared/icons/teleportcheaticon-64.png"></center></td></a>'
+$cheat_display += '<td><center><a href="exec: gs ''MOD_cheatmenu'',''attributes_Cheats''"><img src="images/shared/icons/attributescheaticon-64.png"></center></td></a>'
+$cheat_display += '</tr></td>'
+$cheat_display += '</table></center>'
+
+
+!!Back button and actual output
+$cheat_display +='<br><center><a href="exec:gs''stat''"><img src="images/system/icon/back.png"></a></center>'
+PL '<<$cheat_display>><<$cheat_stats_display>>' 
+$cheat_display = ''
+
+
+
+!!Cheats
+
+!!Money 
+
+if $ARGS[0] = 'cheatmoney':
+	
+	cheatmoney = input("How much money do you want to add? Use negative values to reduce cash")
+	if cheatmoney <> 0:
+		cheatedmoney = 1
+	else
+		cheatedmoney = 0
+	end
+	money = money + cheatmoney
+	msg 'Your cash has been changed by <b><<cheatmoney>> !</b>'
+	gs 'MOD_cheatmenu'
+	
+end
+
+!!Teleport
+
+if $ARGS[0] = 'teleport':
+
+	clr
+	!$teleport_display = ''
+	$cheat_stats_display += '<a href="exec: gt''loc_pavlovsk_residential'' & clr"> Teleport to Pavlovsk</a><br>'
+	$cheat_stats_display += '<a href="exec: gt''loc_citycentre'' & clr"> Teleport to City</a><br>'
+	$cheat_stats_display += '<a href="exec: gt''liam'' & clr"> Teleport to old town</a><br>'
+	$cheat_stats_display += '<a href="exec: gt''gadukino'' & clr"> Teleport to Gadyukino</a><br>'
+	
+	PL '<<$cheat_stats_display>>'
+	
+	!gs 'MOD_cheatmenu'
+	
+end
+
+!!Status Cheats - Finneyyy 04/08/17 (Status is arousal, pain, mood, hunger and sleep):
+!!We really need to change all status + stats, but we need to change everything in attributes(except spirit, mental agility, schoolgrades, attractiveness)
+!!And strength, agility, endurance, intelligence, arousal, pain, mood, hunger, sleep
+
+if $ARGS[0] = 'statCheats':
+	
+	clr
+	
+	!$statusCheats_display += ''
+    !Arousal uses pcs_horny
+    $cheat_stats_display += 'Arousal (<<pcs_horny>>):<a href="exec: pcs_horny = 0 & msg ''Changed value to minimum'' & gs''MOD_cheatmenu''"> Set to min </a>' +'<a href="exec: pcs_horny = 100 & msg ''Changed value to maximum'' & gs''MOD_cheatmenu''"> Set to max </a>'
+	!Pain uses pcs_pain
+    $cheat_stats_display += 'Pain (<<pcs_pain>>):<a href="exec: pcs_pain = 0 & msg ''Changed value to minimum'' & gs''MOD_cheatmenu''"> Set to min </a>' +'<a href="exec: pcs_pain = 100 & msg ''Changed value to maximum'' & gs''MOD_cheatmenu''"> Set to max </a>'
+    !Mood uses ''
+    $cheat_stats_display += 'Mood (<<pcs_mood>>):<a href="exec: pcs_mood = 0 & msg ''Changed value to minimum'' & gs''MOD_cheatmenu''"> Set to min </a>' +'<a href="exec: pcs_mood += 100 & msg ''Changed value to maximum'' & gs''MOD_cheatmenu''"> Set to max </a>'
+    !Hunger uses '' 
+    $cheat_stats_display += 'Hunger (<<pcs_energy>>):<a href="exec: pcs_energy = 0 & msg ''Changed value to minimum'' & gs''MOD_cheatmenu''"> Set to min </a>' + '<a href="exec: pcs_energy = 100 & msg ''Changed value to maximum'' & gs''MOD_cheatmenu''"> Set to max </a>'
+    !Sleep uses ''
+    $cheat_stats_display += 'Sleep (<<pcs_sleep>>):<a href="exec: pcs_sleep = 0 & msg ''Changed value to minimum'' & gs''MOD_cheatmenu''"> Set to min </a>' + '<a href="exec: pcs_sleep = 100 & msg ''Changed value to maximum'' & gs''MOD_cheatmenu''"> Set to max </a>'
+	
+	PL '<<$cheat_stats_display>>'
+	
+	!gs 'MOD_cheatmenu'
+
+end	
+
+!!Attribute Cheats - Finneyyy 05/08/17
+if $ARGS[0] = 'attributes_Cheats':
+	
+	
+	clr
+	
+	
+	!Strength uses 'pcs_stren'
+    $cheat_stats_display += 'Strength (<<stren_lvl>>):<a href="exec: stren_lvl = 0 & msg ''Changed value to minimum'' & gs''MOD_cheatmenu''"> Set to min </a>' +'<a href="exec: stren_lvl = 100 & msg ''Changed value to maximum'' & gs''MOD_cheatmenu''"> Set to max </a>'
+    !Agility uses 'pcs_agil'
+    $cheat_stats_display += 'Agility (<<agil_lvl>>):<a href="exec: agil_lvl = 0 & msg ''Changed value to minimum''  & gs''MOD_cheatmenu''">Set to min </a>' +'<a href="exec: agil_lvl = 100 & msg ''Changed value to maximum'' & gs''MOD_cheatmenu''"> Set to max</a>'
+    !Endurance uses 'pcs_vital'
+    $cheat_stats_display += 'Endurance (<<vital_lvl>>):<a href="exec: vital_lvl = 0 & msg ''Changed value to minimum''  & gs''MOD_cheatmenu''">Set to min </a>' +'<a href="exec: vital_lvl = 100 & msg ''Changed value to maximum'' & gs''MOD_cheatmenu''"> Set to max </a>'
+    !Intelligence uses 'pcs_intel'
+    $cheat_stats_display += 'Intelligence (<<intel_lvl>>):<a href="exec: intel_lvl = 0 & msg ''Changed value to minimum''  & gs''MOD_cheatmenu''"> Set to min </a>' +'<a href="exec: intel_lvl = 100 & msg ''Changed value to maximum'' & gs''MOD_cheatmenu''"> Set to max</a>'
+    !Dominance uses 'pcs_dom'
+    $cheat_stats_display += 'Dominance (<<pcs_dom>>):<a href="exec: pcs_dom -= 0 & msg ''Changed value to minimum''  & gs''MOD_cheatmenu''"> Set to min </a>' +'<a href="exec: pcs_dom = 100 & msg ''Changed value to maximum'' & gs''MOD_cheatmenu''"> Set to max </a>'
+    !Submission uses 'sub'
+    $cheat_stats_display += 'Submission (<<sub>>):<a href="exec: sub = 100 & msg ''Changed value to minimum''  & gs''MOD_cheatmenu''"> Set to min </a>' +'<a href="exec: sub = 100 & msg ''Changed value to maximum''  & gs''MOD_cheatmenu''"> Set to max </a>'
+    !Exhibitionism uses 'pcs_exhibition'
+    $cheat_stats_display += 'Exhibitionism (<<pcs_exhibition>>):<a href="exec: pcs_exhibition = 0 & msg ''Changed value to minimum''  & gs''MOD_cheatmenu''"> Set to min </a>' +'<a href="exec: pcs_exhibition = 100 & msg ''Changed value to maximum'' & gs''MOD_cheatmenu''"> Set to max</a>'
+    PL '<<$cheat_stats_display>>' 
+	
+	!gs 'MOD_cheatmenu'
+    
+end
+	

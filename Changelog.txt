@@ -1,0 +1,189 @@
+1)
+Location:
+npcstatic1
+
+Refrenced Text:
+'Dimka Nosov is a cute [[guy and all]] the girls adore him. He is considered the coolest kid in school. The guys tend to either befriend him or loath him. He comes from a fairly wealthy family, and is always dressed in [[expensive stylish clothes]]. Despite his pleasant smile and friendly demeanor, there are rumors saying he is a sadist bastard that always gets what he wants.'
+
+Changes:
+'Dimka Nosov is a cute [[guy, all]] the girls adore him. He is considered the coolest kid in school. The guys tend to either befriend him or loath him. He comes from a fairly wealthy family, and is always dressed in [[expensive, stylish clothes]]. Despite his pleasant smile and friendly demeanor, there are rumors saying he is a sadist bastard that always gets what he wants.'
+
+2)
+Location:
+npcstatic1
+
+Referenced Text:
+Artem Chebotarev is a typical [[geek but]] [[one could easily be deceived by his looks as he is actually not that bad looking]]. He does very well in [[school]] and is popular with the other geeks[[, not to mention that thanks to his looks he has befriended a lot of jocks as he is also their tutor outside of school.']]
+
+Changes:
+Artem Chebotarev is a typical [[geek but,]][[as he is somewhat attractive, his looks tend to be deceiving]]. He does very well in [[school,]] and is popular with the other geeks. [[On top of that, his good looks have lead to him befriending a lot of jocks. This relationship is only helped by the fact that he spends quite a bit of time tutoring them after school hours.'
+
+3)
+Location:
+npcstatic1
+
+Referenced Text:
+'Ivan Prokhorov is a talented athlete who is able to succeed in any sport he takes part of. [[He is mostly into boxing and running at this time and is considered to be very good looking by the girls in school. He spends a lot of time training and regularly is away competing]]. He isn''t very sociable [[and, other than when he is training, tends to keep to himself, a true lone wolf. He is calm and collected by nature, some might [[even say apathetic.]]'
+
+Changes:
+'Ivan Prokhorov is a talented athlete who is able to succeed in any sport he takes part of. [[As of now, He perfers to box or run. He is considered to be very good looking by the girls in school and, he spends a lot of time training and is frequently away to compete in tournaments]]. He isn''t very sociable [[, other then when he is training, he tends to keep to himself, a true lone wolf. He is calm and collected by nature, some might even [[say he''s apathetic.]]'
+
+4)
+Location:
+npcstatic1
+
+Referenced Text:
+'Igor Kruglov is Dimka''s [[best friends and whenever]] you see one of them the other is usually not too far away. With a small stature, high pitched voice, and pretty face many consider him to be very feminine. Normally a boy like him would be mocked but his friendship with Dimka, the most popular boy in school, shields him from such abuse. [[Many wonder about their friendship as Igor follows Dimka around so often and they seem to have always been friends.]] Some would even say that Igor is overly attached to Dimka. [[Other than Dimka though Igor doesn''t seem to have any other close friends.]]'
+
+Changes:
+'Igor Kruglov is Dimka''s [[best friend, whenever]] you see one of them the other is usually not too far away. With a small stature, high pitched voice, and pretty face many consider him to be very feminine. Normally a boy like him would be mocked but his friendship with Dimka, the most popular boy in school, shields him from such abuse. Many wonder about their friendship [[as, they seem like they have always been close friends.]] Some would even say that Igor is overly attached to Dimka. [[Though, this may be because, other than Dimka, Igor doesn''t seem to have any other close friends.]]
+
+5)
+Location:
+npcstatic1
+
+Referenced Text:
+'Fedor Kozlov is a decent athlete[[. He often trains with his good friend Ivan, but lacks the level of talent that Ivan does have.]] He is decent looking and often is seen chasing Ivan''s leftovers.'
+
+Changes:
+'Fedor Kozlov is a decent athlete[[, he often trains with his good friend Ivan but, lacks the level of talent that he has.]] He is decent looking and often is seen chasing Ivan''s leftovers.'
+
+6)
+Location:
+npcstatic1
+
+Referenced Text:
+'Petka Klyuyev is a nerd who usually doesn''t interact with other people[[, he mostly spends his time reading. He''s good friends with Artem and you can usually hear them recommending what to read to each other.]]'
+
+Changes:
+Petka Klyuyev is a nerd who usually doesn''t interact with other people[[. Most of the time, you can find him reading. He''s good friends with Artem and, you can usually hear them exchanging book recommendations]].'
+
+7)
+Location:
+npcstatic1
+
+Referenced Text:
+[[Everyone at school always bullies Lesco about anything and everything. He is the nephew of Mr. Tsarev and cousin of Lera. He resides with the Tsarev''s after his mother abandoned him for a week on one of her drug binges.]]'
+
+Changes:
+[[Lesco Tsarev is the schools'' outcast, everyone always bullies Lesco about anything and everything. Since his mother abandoned him for a week to go on a drug binge, he has been staying with his uncle, and his daughter Lera.]]'
+
+8)
+Location:
+npcstatic1
+
+Referenced Text:
+Svyatoslav Voinov is an athletic guy with a very competitive spirit. [[He is always engaged in sports one way or another.]] He runs track and often competes with Ivan to be the fastest boy at school. His other focus is football as well as many other sports the school offers. [[He''s always trying to one up Ivan but rarely manages to beat him at anything.]]
+
+Changes:
+Svyatoslav Voinov is an athletic guy with a very competitive spirit, [[He always seems to be engaged in sports one way or another.]] He runs track, and often competes with Ivan to be the fastest boy at school. [[On top of that, he likes to focus on football, and many of the other sports the school has to offer.]][[He''s always trying to one up Ivan, but rarely manages to do so with success]]
+
+9)
+Location:
+npcstatic1
+
+Referenced Text:
+[[Vitek Kotov is an aggressive and strong guy, who considers himself a gangsta.]] He is very loud, obnoxious and[[]] not very attractive. Lena is his twin-sister, whom he is overly protective of and that has caused more than a fair share of drama. He is the local leader of the Gopniks [[and as such is the most feared boy in school. Even some adults are afraid of him.]] He is even rumored to be involved with the local organized crime [[ ]] selling drugs.
+
+Changes:
+[[Vitek Kotov is an aggressive, strong guy who considers himself a gangsta]]. He is very loud, obnoxious and[[,]] not very attractive. He has a twin-sister named Lena, he is overly protective of her which, causes its fair share of drama. He is the local leader of the Gopniks and [[as a result, he is the most feared boy in school, for both students, and teachers]]. He is even rumored to be involved with the local organized crime[[,]] selling drugs
+
+10)
+Location:
+npcstatic1
+
+Referenced Text:
+'Dan Ryzhov is a tall [[and]] skinny guy, whose body language screams his disdain and contempt for others. He''s a very stubborn guy [[]] who will never let an argument be. He''s best friends with Vitek and Vasily, and is considered to be the smartest one of the bunch, Though [[]] most consider that to not be much of a feat.'
+
+Changes:
+'Dan Ryzhov is a tall, skinny guy, whose body language screams his disdain and contempt for others. He''s a very stubborn guy[[,]] who will never let an argument be. He''s best friends with Vitek and Vasily, and is considered to be the smartest one of the bunch. Though[[,]] most consider that to not be much of a feat.'
+
+11)
+Location:
+npcstatic1
+
+Referenced Text:
+Vasily is always hanging out with Dan and Vitek, [[who are his best friends]]. [[His nickname is Shulga]]. He''s physically considered the weakest one of the bunch, [[but]] is a bit of a prankster and is [[always making the other ones laugh]]. He was raised just by his father, after his mother left [[when]] he was still an infant.'
+
+Changes:
+Vasily [[otherwise known as Shulga]], is [[always hanging out with his two best friends]], Dan and Vitek. He''s physically considered the weakest one of the bunch [[but,]] is a bit of a prankster and [[is always making others laugh]]. He was raised just by his father, after his mother left [[while]] he was still an infant.'
+
+12)
+Location:
+npcstatic1
+
+Referenced Text:
+'Julia is a diligent and silent girl. She''s very nerdy, and doesn''t really have any friends in school. She seems to like keeping to herself, but has sometimes been caught eyeing the other girls while they [[]] changing after [[the]] gym lessons.
+
+Changes:
+'Julia is a diligent and silent girl. She''s very nerdy, and doesn''t really have any friends in school. She seems to like keeping to herself, but has sometimes been caught eyeing the other girls while they are changing after gym lessons.'
+
+13)
+Location:
+npcstatic1
+
+Referenced Text:
+13a)Larissa is [[an athletic girl]] that''s highly insecure, she''s very dependent on other people''s opinions of her. Christina used to control her[[,]] but ever since you took care of Christina [[]] she has been a lot more energetic. She has a spark in her eyes, and[[,]] is almost always in a good mood. Even though Mikhail Nikolayevich [[]] sees a lot of potential in her and offered her a spot on the volleyball team, she''s afraid to go pro.'
+
+13b)Larissa is a very athletic girl, with an exceptional talent for volleyball. She has a very weak personality though, and is very dependent on other people''s opinions of her. [[Her best friend is Christina and one can often see Larissa chasing after Christina.]]'
+
+Changes:
+13a)Larissa is [[a very athletic girl]] that''s highly insecure, she''s very dependent on other people''s opinions of her. Christina used to control her [[but,]] ever since you took care of Christina[[,]] she has been a lot more energetic. She has a spark in her eyes and[[,]] is almost always in a good mood. Even though Mikhail Nikolayevich[[,]] sees a lot of potential in her and offered her a spot on the volleyball team, she''s afraid to go pro.'
+
+13b)Larissa is a very athletic girl, with an exceptional talent for volleyball. She has a very weak personality though, and is very dependent on other people''s opinions of her. [[Larissa can often be found chasing after her bestfriend Christina.]]'
+
+14)
+Location:
+npcstatic1
+
+Referenced Text:
+'Katja Meynold is a very attractive and petite girl; a redhead with a special interest in fashion and cosmetics. She and her twin sister, Vicky, are like two sides of the same coin. As a quiet and sensible girl, Katja is shy and intelligent, but at times can also be impulsive. She can often be found at the disco with her sister.
+
+Changes:
+'Katja Meynold is a very attractive and petite girl; a redhead with a special interest in fashion and cosmetics. She and her twin sister [[Vicky,]] are like two sides of the same coin. As a quiet and sensible girl, Katja is shy and intelligent [[but,]] at times can also be impulsive. She can often be found at the disco [[alongside her sister]].
+
+15)
+Location:
+npcstatic1
+
+Referenced Text:
+Vicky Meynold is the opposite of her sister, on one side a smart ass [[and]] on the other a cheerful girl. She is very sociable, [[being friends with many of the students in school and is considered to be one of the most popular girls in school]]. With a passionate love for dancing, Vicky can often be found at the disco with her sister and good friend Vanya Yanka.[[]] A good humored girl [[]] she loves bright and crazy colored clothing. As a child she took gymnastics [[and]] as a result has excellent flexibility. A bit flighty and unpredictable, you never know what thoughts she will come up with next. Logic and reason [[]] were never her strong suit [[as she lives by her emotions and feelings]], making decisions from her heart rather than her head more often than not. Despite her flighty and unpredictable [[]] nature her liveliness and spontaneity make her fun to hang out with.
+
+Changes:
+Vicky Meynold is the opposite of her sister, on one side a smart ass [[and,]] on the other a cheerful girl. She is very sociable and, [[is friends with many of the students in school. Because of this, she is very poplular]]. With a passionate love for dancing, Vicky can often be found at the disco with her sister and good friend Vanya Yanka. [[As a] good humored girl[[,]] she loves bright and crazy colored clothing. As a child she took gymnastics and[[,]] as a result has [[developed]] excellent flexibility. A bit flighty and unpredictable, you never know what thoughts she will come up with next. Logic and reason[[,]] were never her strong suit as [[she lives by following her emotions]], making decisions from her heart rather than her head more often than not. Despite her flighty and unpredictable nature[[,]] her liveliness and spontaneity make her fun to hang out with.
+
+16)
+Location:
+npcstatic1
+
+Referenced Text:
+'Natasha is an excellent student [[and]] one of the smartest people in your school. Even though you are living in the same building, her parents are very poor[[,]] and it shows as Natasha is always dressed in second-hand clothes and can never afford to do anything fun. As a result, she doesn''t have many [[friends, as]] most of the other girls [[shun her or mock her poor clothing.]]'
+
+Changes:
+'Natasha is an excellent student [[and,]] one of the smartest people in your school. Even though you are living in the same building, her parents are very poor [[and,]] it shows as Natasha is always dressed in second-hand clothes and can never afford to do anything fun. As a result, she doesn''t have many friends [[as,]] most of the other girls [[shun or mock her becuase of her situation]].'
+
+17)
+Location:
+npcstatic1
+
+Referenced Text:
+'Inna Devyatova is a tall [[and]] pretty girl[[,]] she knows it and takes full advantage of it. She has a very arrogant [[and]] haughty personality [[hidden behind]] her sweet smile. [[She often makes the boys do her dirty work.]]'
+
+Changes:
+'Inna Devyatova is a tall [[and,]] pretty girl[[.]] She knows it and[[,makes sure to take full advantage.]] She has a very arrogant [[and,]] haughty personality [[that is hidden behind]] her sweet smile. [[She often is seen making the boys do her dirty work.]]'
+
+18)
+Location:
+npcstatic1
+
+Referenced Text:
+18a)Ever since your fight, Christina has been avoiding you. She''s been humiliated ever since you told the whole school about how she sucked the P.E. teacher''s cock for a place in the running competition, [[and]]] you managed to beat her up when she tried to fight you. Barely a shade of her former self she stands timidly in a corner, her head still wrapped in bandage. Whenever she opens her mouth, people can see the broken tooth she hasn''t been able to get fixed yet.'
+18b)Christina is one of your school''s best athletes, [[and]] is the strongest girl you know. She has leadership abilities that, [[together with her tenacity and intelligence, make her having a dominant presence wherever she goes]]. She is also more than a bit of a bully to most of the other girls in school.'
+	
+Changes:
+18a)Ever since your fight, Christina has been avoiding you. She''s been humiliated ever since you told the whole school about how she sucked the P.E. teacher''s cock for a place in the running competition [[and,]] you managed to beat her up when she tried to fight you. Barely a shade of her former self she stands timidly in a corner, her head still wrapped in bandage. Whenever she opens her mouth, people can see the broken tooth she hasn''t been able to get fixed yet.'
+
+18b)Christina is one of your school''s best athletes [[and,]] is the strongest girl you know. She has leadership abilities [[that when combined with her tenacity and intelligence give her a dominant presence wherever she goes]]. She is also [[,]] more than a bit of a bully to most of the other girls in school.'
+
+
+
