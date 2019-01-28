@@ -4,3 +4,7 @@ This mod is based on the 0.601 ECV. This is currently classified as a mod but wi
 You can follow, comment and download the current version at https://f95zone.com/threads/girl-life-0-601-qol-quality-of-life-mod.3480/
 
 You can find the original mods github here: https://github.com/toolkitxx/Girl-life-QOL-quality-of-life-mod
+
+---
+## Update
+This mod development is finished. It has evolved (as promised) into an entirely new game, which can be found here: https://f95zone.com/threads/saint-petersburg-adventures-v1-01-toolkitxx.22717/
