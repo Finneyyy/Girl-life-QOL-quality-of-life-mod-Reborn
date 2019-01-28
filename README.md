@@ -7,4 +7,4 @@ You can find the original mods github here: https://github.com/toolkitxx/Girl-li
 
 ---
 ## Update
-This mod development is finished. It has evolved (as promised) into an entirely new game, which can be found here: https://f95zone.com/threads/saint-petersburg-adventures-v1-01-toolkitxx.22717/
+This mod's development is finished. It has evolved (as promised) into an entirely new game, which can be found here: https://f95zone.com/threads/saint-petersburg-adventures-v1-01-toolkitxx.22717/
